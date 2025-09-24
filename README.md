@@ -1,5 +1,5 @@
 # UNDER MAINTENENCE
-# picoCTF-20__-WriteUps
+# picoGym Exclusive-WriteUps
 
 # Overview
 Here are the write-ups for the challenges I completed
@@ -7,16 +7,14 @@ Here are the write-ups for the challenges I completed
 # Challenges
 
 <details>
-  <summary>Forensics (0/__)</summary>
+  <summary>Forensics (1/4)</summary>
   
   | Challenge | Solved |
   | --------- | ------ |
-  | [] | N |
-  | [] | N |
-  | [] | N |
-  | [] | N |
-  | [] | N |
-  | [] | N |
+  | [DISKO 1] | Y |
+  | [DISKO 2] | N |
+  | [DISKO 3] | N |
+  | [WPA-ing Out] | N |
 
 </details>
 
